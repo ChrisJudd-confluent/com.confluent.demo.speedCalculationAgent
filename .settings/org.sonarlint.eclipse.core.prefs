@@ -1,0 +1,5 @@
+autoEnabled=true
+bindingSuggestionsDisabled=false
+eclipse.preferences.version=1
+fileExclusions=FILE\:src/main/java/com/confluent/demo/speedCalculationAgent/calculateWSMetrics.java
+indexingBasedOnEclipsePlugIns=true
